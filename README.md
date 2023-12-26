@@ -8,7 +8,7 @@ Link to Google Colab Notebook: https://colab.research.google.com/drive/1A0uKEFuI
 
 
 
-# Money Laundering Transaction Identification using Decision Tree and Random Forest Classifiers
+# Money Laundering Transaction Predictor using Decision Tree and Random Forest Classifiers
 
 ## Overview
 This repository contains the code and documentation for a project focused on the analysis and recognition of money laundering and illicit transactions within a comprehensive financial transaction database. The primary goal of the project was to develop a robust classification model capable of identifying money laundering transactions within the database by leveraging decision tree classifiers and random forest algorithms.
